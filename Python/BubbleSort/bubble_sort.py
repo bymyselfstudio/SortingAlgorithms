@@ -1,6 +1,4 @@
 class BubbleSort:
-    def __init__(self):
-        self
 
     def sort(self, numbers: list[int]) -> list[int]:
         has_swapped = True
